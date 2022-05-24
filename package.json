@@ -23,19 +23,15 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/creative",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "http://casabonita.hu/",
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (https://davidmiller.io/)"
+        "Miguel Rubio using -> David Miller (https://davidmiller.io/) template"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-creative.git"
+        "url": "https://github.com/MikeRubio/casa-bonita"
     },
     "dependencies": {
         "bootstrap": "5.1.3"
